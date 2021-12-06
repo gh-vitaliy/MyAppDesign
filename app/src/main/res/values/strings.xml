@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAppDesign</string>
+    <string name="hello">Hello</string>
+    <string name="next_activity_button">Next activity</string>
+    <string name="next_activity">Next activity</string>
+    <string name="bottom_app_bar">НАДПИСЬ</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="title">Title</string>
+    <string name="TVE">TVE</string>
+</resources>
